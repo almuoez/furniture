@@ -1,0 +1,9 @@
+body{
+    background-color: aliceblue;
+}
+.card{
+    box-shadow: 4px 4px 6px grey;
+}
+.form-control{
+    border-radius: 30px 30px 30px 30px;
+}
